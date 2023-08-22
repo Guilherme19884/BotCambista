@@ -1,0 +1,14 @@
+{
+  "name": "conversordemoedas",
+  "version": "1.0.0",
+  "description": "Criando um bot para aprender e converter moedas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme ARaújo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.1.0"
+  }
+}
