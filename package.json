@@ -9,6 +9,7 @@
   "author": "Guilherme ARaújo",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^21.1.0"
+    "puppeteer": "^21.1.0",
+    "readline-sync": "^1.4.10"
   }
 }
